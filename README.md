@@ -1,4 +1,4 @@
-# Smartball project - Hardware 
+# Smartball project - hardware 
 
 This repository contains the Smartball project hardware files: bom, schematics, board layout and 3D printed part.
 
