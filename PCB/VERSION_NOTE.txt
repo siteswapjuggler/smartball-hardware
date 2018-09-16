@@ -1,0 +1,3 @@
+v1.0 - initial release
+v1.1 - USB Footprint correction for PCBWays
+v1.2 - Data+ and Data- correcteds
