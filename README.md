@@ -19,3 +19,12 @@ The project is an assembly of three boards: 2 led boards + 1 main board. It reli
 
 v1.1 is the version product for the first prototypes and contains an minor error on USB Data Lines
 v1.2 is the latest version, it correct the USB Data Lines error
+
+## Linked repositories
+
+This repository refers directly to its following siblings : 
+
+- https://github.com/siteswapjuggler/smartball-firmware
+- https://github.com/siteswapjuggler/smartball-externals
+- https://github.com/siteswapjuggler/smartball-documents
+- https://github.com/siteswapjuggler/smartball-imu
