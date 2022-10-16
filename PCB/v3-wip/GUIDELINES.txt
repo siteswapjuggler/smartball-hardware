@@ -1,0 +1,8 @@
+USB-C
+MAX1650 Power Management
+Better Buck Boost Converter and 3V3 LDO
+FPC for APA107 and IR Leds
+Better selection for motor and buzzer
+New IMU because of MPU9255 not being available anymore
+Optimised Antenna
+ESP32
