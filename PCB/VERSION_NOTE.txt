@@ -1,3 +1,13 @@
 v1.0 - initial release
 v1.1 - USB Footprint correction for PCBWays
 v1.2 - Data+ and Data- correcteds
+
+----------------------------------------------------------------
+
+v2.0 - 14:20 new batch
+v2.1 - Jive test batch with power path and capacitor correction 
+v2.2 - Jive final batch with MCP1812AT intergration and ground plane optimisation
+
+----------------------------------------------------------------
+
+v3.0 - prefiguration for ESP32 version
