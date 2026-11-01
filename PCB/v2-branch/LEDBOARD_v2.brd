@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.2">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="mm" altunit="mm"/>
+<grid distance="1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="mm" altunit="mm"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -183,7 +183,7 @@
 <layer number="255" name="Accent" color="7" fill="1" visible="no" active="no"/>
 </layers>
 <board>
-<fusionsync huburn="a.cGVyc29uYWw6dWUyZGUyNzE5" projecturn="a.cGVyc29uYWw6dWUyZGUyNzE5IzIwMTgwNTI0MTMzMzU1NjI2" f3durn="urn:adsk.wipprod:dm.lineage:43L5gtyDQcmtdruZciQwMw" pcbguid="ba197ad1-07de-444b-8e92-81ac725f9bd8" lastpulledtime="" lastsyncedchangeguid="84c1780c-5871-4173-8741-414ed2179e0c"/>
+<fusionsync huburn="a.cGVyc29uYWw6dWUyZGUyNzE5" projecturn="a.cGVyc29uYWw6dWUyZGUyNzE5IzIwMTgwNTI0MTMzMzU1NjI2" f3durn="urn:adsk.wipprod:dm.lineage:43L5gtyDQcmtdruZciQwMw" pcbguid="ba197ad1-07de-444b-8e92-81ac725f9bd8" lastpulledtime="" lastsyncedchangeguid="84c1780c-5871-4173-8741-414ed2179e0c" latestrevisionid="" lastsyncedrevisionid="" lastboardhashguid="" lastpushedtime="" linktopcb3d="false"/>
 <plain>
 <wire x1="16.5" y1="-3" x2="16.053990625" y2="-3" width="0.001" layer="20"/>
 <wire x1="16.5" y1="-3" x2="17" y2="-2.5" width="0.001" layer="20" curve="90"/>
